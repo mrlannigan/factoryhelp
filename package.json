@@ -1,0 +1,27 @@
+{
+  "name": "locationsearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node . $@"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^8.4.0",
+    "natural": "^0.2.1",
+    "body-parser": "1.0.2",
+    "bower": "^1.3.12",
+    "browserify": "^8.1.1",
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^3.3.0",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint-jsx": "^0.10.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-react": "^0.9.0",
+    "react": "^0.13.1",
+    "react-tools": "^0.13.1"
+  }
+}
